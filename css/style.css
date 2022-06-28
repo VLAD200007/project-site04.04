@@ -1,0 +1,15 @@
+header{
+    background: #18b5a4;
+    background: url('img/fon.jpg') no-repeat;
+    background-size: cover;
+    height: 400px;
+}
+.img-fon{
+    
+}
+h1{
+    text-align: center
+}
+.container{
+    background-color: #18b5a4;
+}

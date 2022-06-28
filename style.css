@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Joan&family=Roboto:ital,wght@0,300;0,700;1,300;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Joan&family=Roboto:ital,wght@0,300;0,700;1,300;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Joan&family=Roboto:ital,wght@0,300;0,700;1,300;1,700&display=swap');
+
+header{
+    
+    background: url('img/mariupol-fon.jpg') no-repeat;
+    background-size: cover;
+    height: 700px;
+}
+h2{
+    padding-top: 30px;
+    text-align: center;
+    color: rgb(7, 15, 168);
+    font-size: 3em;
+    font-family: 'Lobster', cursive;
+}
+
+h1{
+    text-align: center;
+    color: rgb(26, 39, 227);
+    font-family: 'Lobster', cursive;
+}
+.container{
+    display: flex;
+    background-color: aquamarine;
+    display: block;
+}
+.foto-1{
+    display: flex;
+    padding: 10px;
+
+}
+img{
+    width: 80%;
+}
+h3{
+    margin-left: 55px;
+    text-align: center;
+}
+footer{
+    background-color: #95c9de;
+    text-align: center;
+    height: 100px;
+    padding: 20px;
+
+}
+.city-1{
+    margin: 10px;
+}
+.text{
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 20px;
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-size: 1.2em;
+    font-family: 'Lobster', cursiv
+}
+}
+.text-foto{
+width: 400px;
+}
+.text-3{
+width:80%;
+margin: 0 auto 10px;
+}
+a{
+    text-decoration: none;
+    text-align: center;
+}
+li{
+    list-style-type: none;
+    padding: 10px;
+    border: #baddeb 1px solid; /* контур для кнопки */
+    background-color: #deef75; /* фон для кнопки */
+    font-family: 'Lobster', cursive;
+}
+ul{
+    display: flex;
+}
+nav{
+    width: 80%;
+}
+a :hover{
+    background-color: rgb(5, 5, 232); /*стилі кнопки при наведенні*/
+    color: rgb(255, 247, 247);
+
+}
+nav ul li a {
+    color: rgb(107, 100, 100);
+}
+span{
+    font-family: 'Lobster', cursive;
+}
+.facebook{
+    margin-top: 20px;
+}
