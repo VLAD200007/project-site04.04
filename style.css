@@ -10,6 +10,7 @@ header{
     height: 700px;
 }
 h2{
+    text-align: center;
     -webkit-box-pack: center; 
   -ms-flex-pack: center;         
   justify-content: center; 
