@@ -21,10 +21,7 @@ h1{
     font-family: 'Lobster', cursive;
     text-align: center;
   }
-  
-.box :first-child {
-    align-self: center;
-}
+
 .container{
     display: flex;
     background-color: aquamarine;
@@ -63,7 +60,9 @@ p{
 }
 .text-foto{
 width: 400px;
+text-align: center;
 }
+
 .text-3{
 width:80%;
 margin: 0 auto 10px;
