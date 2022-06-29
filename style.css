@@ -10,7 +10,9 @@ header{
     height: 700px;
 }
 h2{
-    padding-top: 30px;
+    -webkit-box-pack: center; 
+  -ms-flex-pack: center;         
+  justify-content: center; 
     text-align: center;
     color: rgb(7, 15, 168);
     font-size: 3em;
