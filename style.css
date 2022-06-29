@@ -17,9 +17,7 @@ h2{
 }
 
 h1{
-    text-align: center;
-    -webkit-box-pack: center; 
-  -ms-flex-pack: center;         
+    -webkit-box-pack: center;          
   justify-content: center;
     color: rgb(26, 39, 227);
     font-family: 'Lobster', cursive;
